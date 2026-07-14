@@ -1,0 +1,31 @@
+{
+  "version": "1.0.1",
+  "base_url": "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/Patch/",
+  "files": [
+    {
+      "path": "rez/UI.rez",
+      "sha256": "",
+      "size": 0
+    },
+    {
+      "path": "rez2/UI.rez",
+      "sha256": "",
+      "size": 0
+    }
+  ]
+}on.rez",
+      "sha256": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "size": 41943040
+    },
+    {
+      "path": "launcher.dll",
+      "sha256": "cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc",
+      "size": 524288
+    },
+    {
+      "path": "CrossFire.exe",
+      "sha256": "dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+      "size": 8388608
+    }
+  ]
+}
